@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import './AviatorGame.css';
+import './frontend/AviatorGame.css';
 
 /**
  * AVIATOR GAME COMPONENT
